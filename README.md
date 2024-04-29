@@ -13,3 +13,10 @@ The objective is to use abundant sources of data (satellite imagery and nightlig
 |-------|--------|-------|
 |Nigeria|	2013	|0.19|
 
+![nigeria_results](https://github.com/raagzz/predicting-poverty/assets/87406829/36c64082-ed0d-4f76-bd93-9ce68cc7ce3a)
+
+## Activation Map
+
+Activation map visually depict what a CNN focusses on. We can infer roads tend to be a key area of focus, and the edges of bodies of water tend to be identified.
+![img1](https://github.com/raagzz/predicting-poverty/assets/87406829/afc62a37-17fc-49d2-b974-4016a51e3976)![activations1](https://github.com/raagzz/predicting-poverty/assets/87406829/fb43dc9a-2e76-4ffb-be1d-48a7f689de30)
+![img2](https://github.com/raagzz/predicting-poverty/assets/87406829/a4e9dd71-374d-4c53-b8fe-55016706c7f6)![activations2](https://github.com/raagzz/predicting-poverty/assets/87406829/d5a27a95-01ba-4f83-8dcb-340d47be53d0)
